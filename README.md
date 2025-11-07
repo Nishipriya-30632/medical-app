@@ -1,1 +1,2 @@
 # medical-app
+The Medical App is a responsive web application built with React and Vite that allows users to easily manage their healthcare needs. It enables users to book appointments, view notifications, check reviews, and manage their profiles securely. The app includes login and signup features, protected routes for authorized access, and a clean, user-friendly interface designed to make healthcare management simple and efficient.
